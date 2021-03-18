@@ -281,7 +281,6 @@ var stui = {
 	}	
 };
 
-
 $(document).ready(function() {	
 	if(stui.browser.useragent.mobile){
 		stui.mobile.slide();
